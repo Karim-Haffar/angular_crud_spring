@@ -1,0 +1,16 @@
+{
+        "rulesDirectory" : [
+            "node_modules/codelyszer"
+        ],
+
+        "rules" : {
+
+            "no-duplicate-variable" :true,
+            "no-unused-variable" : true
+
+        }
+
+
+
+
+}
